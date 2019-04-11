@@ -1,0 +1,25 @@
+.axis--x line, path {
+    stroke: #849edc
+}
+
+.axis--x text {
+    font-family: Menlo, monospace;
+}
+
+.axis--y text {
+    stroke: #849edc;
+    fill: #849edc;
+    font-family: Menlo, monospace;
+    font-size: 36px;
+}
+
+#barChartSRC svg {
+    max-height: 950px;
+    background: none;
+}
+
+text.count-value {
+    stroke: black;
+    font-size: 36px;
+    fill: black;
+}
